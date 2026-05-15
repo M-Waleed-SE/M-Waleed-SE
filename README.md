@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/M-Waleed-SE/M-Waleed-SE/main/banner.png" width="100%" alt="Muhammad Waleed Banner" />
+  <img src="https://cdn.jsdelivr.net/gh/M-Waleed-SE/M-Waleed-SE@main/banner.png" width="100%" alt="Muhammad Waleed Banner" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Muhammad+Waleed+%F0%9F%91%8B;Software+Engineer+%7C+Student;Full+Stack+Developer;Generative+AI+Enthusiast;Building+meaningful+tech+for+social+impact" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Muhammad+Waleed+%F0%9F%91%8B;Software+Engineer+%26+AI+Enthusiast;Building+zeroCrumb+%F0%9F%8C%B1" />
   </a>
 
   <br/>
@@ -110,7 +110,7 @@ fun_fact  : Coding + UFC + Valorant clutches = my holy trinity 🎮🥊💻
 
 <div align="center">
 
-🔫 **Valorant** &nbsp;|&nbsp; 🎯 **COD** &nbsp;|&nbsp; 🥊 **UFC** &nbsp;|&nbsp; 🎮 **WWE2K** &nbsp;|&nbsp; 🌍 **Open Source** &nbsp;|&nbsp; 💬 **Deep Conversations** &nbsp;|&nbsp; 🌌 **Thinking About Life** &nbsp;|&nbsp; 😄 **Bringing Joy to People**
+🔫 **Valorant** &nbsp;|&nbsp; 🎯 **COD** &nbsp;|&nbsp; 🥊 **UFC** &nbsp;|&nbsp; 🎮 **WWE2K** &nbsp;|&nbsp; 🌍 **Open Source** &nbsp;|&nbsp; 💬 **Deep Conversations** &nbsp;|&nbsp; 🌌 **Tech Exploration**
 
 </div>
 
@@ -123,7 +123,7 @@ fun_fact  : Coding + UFC + Valorant clutches = my holy trinity 🎮🥊💻
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=Let's+build+something+amazing+together!+🚀;Open+to+collabs+%26+opportunities!;Drop+me+a+message+anytime+📬" alt="Footer Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=Let's+build+something+amazing+together!+🚀;Open+to+collabs+and+new+ideas!" />
 </a>
 
 </div>
