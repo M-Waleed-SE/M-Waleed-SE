@@ -1,8 +1,9 @@
+````md
 <div align="center">
   <img src="https://raw.githubusercontent.com/M-Waleed-SE/M-Waleed-SE/main/banner.png" width="100%" alt="Muhammad Waleed Banner" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Muhammad+Waleed+%F0%9F%91%8B;Software+Engineer;Full+Stack+Developer;Generative+AI+Enthusiast;Building+tech+for+social+impact" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Muhammad+Waleed+%F0%9F%91%8B;Software+Engineer;Full+Stack+Developer;Generative+AI+Enthusiast;Building+meaningful+tech+for+social+impact" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -10,13 +11,17 @@
   <a href="https://www.linkedin.com/in/m-waleed-se">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://github.com/M-Waleed-SE">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
   <a href="mailto:waleed.se@outlook.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
+
   <br/><br/>
+
   <img src="https://komarev.com/ghpvc/?username=M-Waleed-SE&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
 
@@ -25,14 +30,17 @@
 ## 💫 About Me
 
 ```yaml
-name      : Muhammad Waleed
-role      : Full Stack Developer & Generative AI Enthusiast
-location  : Pakistan 🇵🇰
-building  : zeroCrumb — smart tech to reduce food waste 🌱
-learning  : Generative AI • LLMs • Agentic Systems
-ask_me    : React • Node.js • FastAPI • AI Integration
-fun_fact  : Coding + UFC + Valorant clutches = my holy trinity 🎮🥊💻
-```
+name         : Muhammad Waleed
+role         : Full Stack Developer & Generative AI Enthusiast
+location     : Pakistan 🇵🇰
+building     : zeroCrumb — using tech to reduce food waste 🌱
+learning     : Generative AI • LLMs • Agentic Systems
+ask_me       : React • Node.js • FastAPI • AI Integration
+os           : Fedora Linux 🐧
+theme        : Dracula forever 🦇
+inspired_by  : Linus Torvalds & the open-source movement
+fun_fact     : Coding + UFC + Valorant clutches = my holy trinity 🎮🥊💻
+````
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -40,26 +48,26 @@ fun_fact  : Coding + UFC + Valorant clutches = my holy trinity 🎮🥊💻
 
 <div align="center">
 
-**⚡ Frontend & Mobile**
+### ⚡ Frontend & Mobile
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
 
-**🧠 Backend & AI**
+### 🧠 Backend & AI
 
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)
 
-**🗄️ Database & DevOps**
+### 🗄️ Database & DevOps
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge\&logo=git\&logoColor=white)
 
 </div>
 
@@ -69,10 +77,10 @@ fun_fact  : Coding + UFC + Valorant clutches = my holy trinity 🎮🥊💻
 
 <div align="center">
 
-![LLMs](https://img.shields.io/badge/Large_Language_Models-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI_Systems-FF6F00?style=for-the-badge&logo=googlegemini&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Vector DBs](https://img.shields.io/badge/Vector_Databases-00A86B?style=for-the-badge&logo=pinecone&logoColor=white)
+![LLMs](https://img.shields.io/badge/Large_Language_Models-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI_Systems-FF6F00?style=for-the-badge\&logo=googlegemini\&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-005571?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Vector DBs](https://img.shields.io/badge/Vector_Databases-00A86B?style=for-the-badge\&logo=pinecone\&logoColor=white)
 
 </div>
 
@@ -102,11 +110,11 @@ fun_fact  : Coding + UFC + Valorant clutches = my holy trinity 🎮🥊💻
 
 <div align="center">
 
-| 🔖 Project | 📝 Description | 🧰 Stack |
-|:-----------|:---------------|:---------|
-| 🌱 [**zeroCrumb**](https://github.com/M-Waleed-SE) | Reducing food waste through smart tech — social impact at its core | React • Node.js • MongoDB |
-| ✍️ [**Opinio**](https://github.com/M-Waleed-SE/Opinio) | Full-featured MERN blogging platform with auth & rich text editing | MongoDB • Express • React |
-| 🤖 [**AI Story Generator**](https://github.com/M-Waleed-SE/AI-Story-and-Poem-Generator) | Creative storytelling powered by Python & NLP | Python • NLP • FastAPI |
+| 🔖 Project                                                                              | 📝 Description                                                               | 🧰 Stack                  |
+| :-------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------- | :------------------------ |
+| 🌱 [**zeroCrumb**](https://github.com/M-Waleed-SE)                                      | Smart technology focused on reducing food waste & creating social impact     | React • Node.js • MongoDB |
+| ✍️ [**Opinio**](https://github.com/M-Waleed-SE/Opinio)                                  | Full-featured MERN blogging platform with authentication & rich text editing | MongoDB • Express • React |
+| 🤖 [**AI Story Generator**](https://github.com/M-Waleed-SE/AI-Story-and-Poem-Generator) | Creative storytelling powered by Python, NLP & FastAPI                       | Python • NLP • FastAPI    |
 
 </div>
 
@@ -128,14 +136,29 @@ fun_fact  : Coding + UFC + Valorant clutches = my holy trinity 🎮🥊💻
 
 <div align="center">
 
-🔫 **Valorant** &nbsp;|&nbsp; 🎯 **COD** &nbsp;|&nbsp; 🥊 **UFC** &nbsp;|&nbsp; 🎮 **WWE2K** &nbsp;|&nbsp; 🌍 **Open Source** &nbsp;|&nbsp; 💬 **Deep Conversations** &nbsp;|&nbsp; 🌌 **Thinking About Life** &nbsp;|&nbsp; 😄 **Bringing Joy to People** &nbsp;|&nbsp; 🤝 **Connecting with Humans**
+🔫 **Valorant**  | 
+🎯 **COD**  | 
+🥊 **UFC**  | 
+🎮 **WWE2K**  | 
+🐧 **Fedora Linux**  | 
+🌍 **Open Source**  | 
+💬 **Deep Conversations**  | 
+🌌 **Thinking About Life**  | 
+😄 **Bringing Joy to People**
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Let's+build+something+amazing+together!+🚀;Open+to+collabs+%26+opportunities!;Drop+me+a+message+anytime+📬" alt="Footer Typing" />
-  </a>
+
+> “Talk is cheap. Show me the code.” — Linus Torvalds
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=Let's+build+something+amazing+together!+🚀;Open+to+collabs+%26+opportunities!;Powered+by+Fedora+Linux+%2B+Dracula+Theme+🦇" alt="Footer Typing" />
+</a>
+
 </div>
+```
