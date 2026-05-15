@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/M-Waleed-SE/M-Waleed-SE@main/banner.png" width="100%" alt="Muhammad Waleed Banner" />
+  <img src="https://cdn.jsdelivr.net/gh/M-Waleed-SE/M-Waleed-SE@main/banner.png" width="85%" style="border-radius:12px;" alt="Muhammad Waleed Banner" />
+
+  <br/><br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Muhammad+Waleed+%F0%9F%91%8B;Software+Engineer+%26+AI+Enthusiast;Building+zeroCrumb+%F0%9F%8C%B1" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Muhammad+Waleed+%F0%9F%91%8B;Software+Engineer+%26+AI+Enthusiast;Building+zeroCrumb+%F0%9F%8C%B1" alt="Hey there, I'm Muhammad Waleed — Software Engineer & AI Enthusiast" />
   </a>
 
   <br/>
@@ -31,6 +33,7 @@ location  : Pakistan 🇵🇰
 building  : zeroCrumb — using tech to reduce food waste 🌱
 learning  : LLMs • Agentic Systems • RAG Pipelines • Vector DBs
 ask_me    : React • Node.js • FastAPI • AI Integration
+editor    : VS Code + Dracula Theme 🦇
 fun_fact  : Coding + UFC + Valorant clutches = my holy trinity 🎮🥊💻
 ```
 
@@ -96,13 +99,44 @@ fun_fact  : Coding + UFC + Valorant clutches = my holy trinity 🎮🥊💻
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-Waleed-SE/M-Waleed-SE/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M-Waleed-SE/M-Waleed-SE/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/M-Waleed-SE/M-Waleed-SE/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🐧 Open Source Soul
+
+<div align="center">
+
+*Inspired by the people and philosophy that made software free and open.*
+
+<br/>
+
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Open Source](https://img.shields.io/badge/Open_Source-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![Dracula Theme](https://img.shields.io/badge/Dracula_Theme-282A36?style=for-the-badge&logo=dracula&logoColor=BD93F9)
+
+<br/>
+
+> *"Talk is cheap. Show me the code."* — **Linus Torvalds**
+
+*Daily driver: Fedora Linux &nbsp;·&nbsp; Editor theme: Dracula &nbsp;·&nbsp; Philosophy: build in the open*
+
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🌙 When the IDE Closes
 
 <div align="center">
 
-🔫 **Valorant** &nbsp;|&nbsp; 🎯 **COD** &nbsp;|&nbsp; 🥊 **UFC** &nbsp;|&nbsp; 🎮 **WWE2K** &nbsp;|&nbsp; 🌍 **Open Source** &nbsp;|&nbsp; 💬 **Deep Conversations** &nbsp;|&nbsp; 🌌 **Tech Exploration**
+🔫 **Valorant** &nbsp;|&nbsp; 🎯 **COD** &nbsp;|&nbsp; 🥊 **UFC** &nbsp;|&nbsp; 🎮 **WWE2K** &nbsp;|&nbsp; 💬 **Deep Conversations** &nbsp;|&nbsp; 🌌 **Thinking About Life** &nbsp;|&nbsp; 😄 **Bringing Joy to People**
 
 </div>
 
@@ -110,12 +144,8 @@ fun_fact  : Coding + UFC + Valorant clutches = my holy trinity 🎮🥊💻
 
 <div align="center">
 
-> *"Talk is cheap. Show me the code."* — Linus Torvalds
-
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=Let's+build+something+amazing+together!+🚀;Open+to+collabs+and+new+ideas!" alt="Footer Typing Animation" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=Let's+build+something+amazing+together!+%F0%9F%9A%80;Open+to+collabs+and+new+ideas!)](https://github.com/M-Waleed-SE)
 
 </div>
