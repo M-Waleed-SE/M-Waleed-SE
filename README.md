@@ -88,21 +88,13 @@ fun_fact  : Coding + UFC + Valorant clutches = my holy trinity 🎮🥊💻
 
 | 🔖 Project | 📝 Description | 🧰 Stack |
 |:-----------|:---------------|:---------|
-| 🌱 [**zeroCrumb**](https://github.com/M-Waleed-SE) | Smart technology focused on reducing food waste & creating social impact | React • Node.js • MongoDB |
+| 🌱 [**zeroCrumb**](https://github.com/M-Waleed-SE/zeroCrumb) | Smart technology focused on reducing food waste & creating social impact | React • Node.js • MongoDB |
 | ✍️ [**Opinio**](https://github.com/M-Waleed-SE/Opinio) | Full-featured MERN blogging platform with authentication & rich text editing | MongoDB • Express • React |
 | 🤖 [**AI Story Generator**](https://github.com/M-Waleed-SE/AI-Story-and-Poem-Generator) | Creative storytelling powered by Python, NLP & FastAPI | Python • NLP • FastAPI |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-Waleed-SE/M-Waleed-SE/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M-Waleed-SE/M-Waleed-SE/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/M-Waleed-SE/M-Waleed-SE/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -123,7 +115,7 @@ fun_fact  : Coding + UFC + Valorant clutches = my holy trinity 🎮🥊💻
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=Let's+build+something+amazing+together!+🚀;Open+to+collabs+and+new+ideas!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=Let's+build+something+amazing+together!+🚀;Open+to+collabs+and+new+ideas!" alt="Footer Typing Animation" />
 </a>
 
 </div>
