@@ -13,7 +13,7 @@
   <a href="https://github.com/M-Waleed-SE">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:waleed.se@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <br/>
@@ -81,13 +81,6 @@ fun_fact  : Coding + UFC + Valorant clutches = my holy trinity 🎮🥊💻
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Waleed-SE&theme=redical&bg_color=0D1117&hide_border=true&color=A855F7&line=A855F7&point=ffffff" width="98%" alt="Contribution Graph" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=M-Waleed-SE&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4" alt="GitHub Trophies" />
-</div>
 
 ---
 
@@ -111,43 +104,7 @@ fun_fact  : Coding + UFC + Valorant clutches = my holy trinity 🎮🥊💻
   <img src="https://raw.githubusercontent.com/M-Waleed-SE/M-Waleed-SE/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-<details>
-  <summary>⚙️ How to enable the snake animation</summary>
-  <br/>
 
-  1. Go to your profile repo → **Actions** tab
-  2. Create a new workflow file at `.github/workflows/snake.yml`:
-
-  ```yaml
-  name: Generate Snake
-
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: M-Waleed-SE
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  ```
-
-  3. Run the workflow once manually, then it auto-runs daily.
-</details>
-
----
 
 ## 🎮 Beyond the IDE
 
