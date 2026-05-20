@@ -33,7 +33,6 @@ location  : Pakistan 🇵🇰
 building  : zeroCrumb — using tech to reduce food waste 🌱
 learning  : LLMs • Agentic Systems • RAG Pipelines • Vector DBs
 ask_me    : React • Node.js • FastAPI • AI Integration
-editor    : VS Code + Dracula Theme 🦇
 fun_fact  : Coding + UFC + Valorant clutches = my holy trinity 🎮🥊💻
 ```
 
