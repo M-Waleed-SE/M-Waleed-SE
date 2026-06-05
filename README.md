@@ -74,13 +74,6 @@ fun_fact  : Coding + UFC + Valorant clutches = my holy trinity 🎮🥊💻
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=M-Waleed-SE&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=M-Waleed-SE&theme=radical&hide_border=true&background=0D1117" width="70%" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Waleed-SE&theme=react-dark&bg_color=0D1117&hide_border=true&color=A855F7&line=A855F7&point=ffffff" width="98%" alt="Contribution Graph" />
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
