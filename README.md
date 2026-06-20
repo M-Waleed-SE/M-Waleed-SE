@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://cdn.jsdelivr.net/gh/M-Waleed-SE/M-Waleed-SE@main/banner.png" style="border-radius:12px;" alt="Muhammad Waleed Banner" />
+  <img src="https://cdn.jsdelivr.net/gh/M-Waleed-SE/M-Waleed-SE@main/banner2.png" style="border-radius:12px;" alt="Muhammad Waleed Banner" />
   <br/><br/>
 
   <a href="https://git.io/typing-svg">
