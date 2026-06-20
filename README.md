@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/M-Waleed-SE/M-Waleed-SE@main/banner.png" width="85%" style="border-radius:12px;" alt="Muhammad Waleed Banner" />
+
 
   <br/><br/>
 
